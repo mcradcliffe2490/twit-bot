@@ -1,0 +1,9 @@
+Twitter bot should scrape a few popular twitter users every few hours and generate a unique tweet
+Twitter bot should tweet about the # 1 trending topic once a day
+Twitter bot should be able to reply on other people and dunk on them using roast 
+
+Using:
+firebase functions 
+puppeteer web scraper
+OpenAI GPT-3 AI 
+Twitter API
