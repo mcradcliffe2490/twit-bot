@@ -66,3 +66,4 @@ node_modules/
 .env
 API_KEYS.js
 functions/index.js
+functions/twit-config.js
